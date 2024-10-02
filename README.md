@@ -6,7 +6,7 @@ Explora aplicaciones y proyectos que puedes realizar con Tkinter en Python, disp
 <a href="https://www.youtube.com/c/MagnoEfren" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
-
+</div>
 ---
 
 ### Cómo hacer el juego Wordle en Python - Tkinter
@@ -33,4 +33,4 @@ En este proyecto, se ha desarrollado una versión de **Wordle** utilizando **Pyt
 
 ---
 
-</div>
+
